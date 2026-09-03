@@ -88,8 +88,12 @@ O ecossistema do Spotify é construído sobre uma arquitetura distribuída e esc
 
 | Foto / Perfil | Nome | Cargo / Papel Estratégico | Contato / Links |
 | :---: | :--- | :--- | :--- |
-| 👔 | *Daniel Ek* | Co-fundador e Presidente Executivo (Executive Chairman). Liderou a visão estratégica e expansão global da empresa desde sua fundação em 2006. | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://se.linkedin.com/in/daniel-ek-1b52093a) |
-| 🛠️ | *Gustav Söderström* | Co-CEO eCPTO (Chief Product & Technology Officer). Responsável pela engenharia global, P&D, design de produto e inovação tecnológica. | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://se.linkedin.com/in/gustavsoderstrom) |
+| 👔 | **Daniel Ek** | Co-fundador e Presidente Executivo (*Executive Chairman*). Liderou a visão estratégica e expansão global da empresa desde sua fundação em 2006. | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://se.linkedin.com/in/daniel-ek-1b52093a) |
+| 🛠️ | **Gustav Söderström** | Co-CEO e CPTO (*Chief Product & Technology Officer*). Responsável pela engenharia global, P&D, *design* de produto e inovação tecnológica. | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://se.linkedin.com/in/gustavsoderstrom) |
+| 💻 | **Andreas Ehn** | Primeiro CTO (*Chief Technology Officer*). Responsável por recrutar os primeiros engenheiros e desenhar a arquitetura inicial da plataforma de streaming. | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://sg.linkedin.com/in/andreasehn) |
+| ⚡ | **Ludvig "Ludde" Strigeus** | Principal Engenheiro de Software (criador do µTorrent). Fundamental no desenvolvimento das tecnologias de transmissão, compressão e áudio instantâneo. | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/strigeus) |
+
+
 
 ### Informações adicionais do grupo:
 
