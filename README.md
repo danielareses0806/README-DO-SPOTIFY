@@ -89,6 +89,5 @@ O ecossistema do Spotify é construído sobre uma arquitetura distribuída e esc
 | Foto / Perfil | Nome | Cargo / Papel Estratégico | Contato / Links |
 | :---: | :--- | :--- | :--- |
 | 👔 | *Daniel Ek* | Co-fundador e Presidente Executivo (Executive Chairman). Liderou a visão estratégica e expansão global da empresa desde sua fundação em 2006. | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://se.linkedin.com/in/daniel-ek-1b52093a) |
-| 👔 | *Martin Lorentzon* | Co-fundador. Atuou como presidente do conselho e parceiro estratégico na estruturação inicial dos negócios. | [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/martin_lorentzon/) |
 | 🛠️ | *Gustav Söderström* | Co-CEO eCPTO (Chief Product & Technology Officer). Responsável pela engenharia global, P&D, design de produto e inovação tecnológica. | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://se.linkedin.com/in/gustavsoderstrom) |
-| 💼 | *Alex Norström* | Co-CEO e CBO (Chief Business Officer). Lidera operações comerciais, estratégias de anúncios, assinaturas e expansão de mercado. | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://se.linkedin.com/in/alexnorstrom) |
+
