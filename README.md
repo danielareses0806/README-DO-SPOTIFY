@@ -1,5 +1,5 @@
 # 🎵 Spotify — Plataforma de Streaming de Áudio
-
+![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
 ## 📌 Descrição Geral
 O *Spotify* é uma plataforma global de streaming de áudio que oferece acesso instantâneo a um vasto catálogo de músicas, podcasts e conteúdos em áudio. Disponível para múltiplos dispositivos e sistemas operacionais (dispositivos móveis, computadores, tablets e smart TVs), o aplicativo combina entrega contínua via internet com algoritmos avançados de personalização, permitindo que cada usuário adapte sua experiência aos seus gostos e rotinas.
 
