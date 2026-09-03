@@ -91,3 +91,14 @@ O ecossistema do Spotify é construído sobre uma arquitetura distribuída e esc
 | 👔 | *Daniel Ek* | Co-fundador e Presidente Executivo (Executive Chairman). Liderou a visão estratégica e expansão global da empresa desde sua fundação em 2006. | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://se.linkedin.com/in/daniel-ek-1b52093a) |
 | 🛠️ | *Gustav Söderström* | Co-CEO eCPTO (Chief Product & Technology Officer). Responsável pela engenharia global, P&D, design de produto e inovação tecnológica. | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://se.linkedin.com/in/gustavsoderstrom) |
 
+### Informações adicionais do grupo:
+
+- Daniel Ares Gontijo Pinto
+- Riquelme João dos Santos
+- Nathan Gabriel Nunes dos Santos
+- Isabela de Sena Alves
+- Gustavo Santos de Oliveira
+- João Pedro Ribeiro Otreira 
+- Ryan Oliveira Trigo Santos
+- Renan Oliveira Trigo Santos
+
