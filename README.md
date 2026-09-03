@@ -25,6 +25,49 @@ O Spotify atende a duas vertentes principais de usuários:
 - *Integração de Mídia e Exibição de Letras:* Exibição sincronizada de letras de músicas durante a reprodução;
 - *Retrospectiva Anual (*Spotify Wrapped):** Compilação de estatísticas e hábitos de escuta interativos ao final de cada ano.
 
+## 🛠️ Tecnologias Utilizadas
+
+O ecossistema do Spotify é construído sobre uma arquitetura distribuída e escalável para suportar milhões de usuários simultâneos.
+
+### 📱 Client-Side (Aplicativos e Front-End)
+- **Mobile (Android/iOS):** C++ (para o core de áudio compartilhado), Java/Kotlin (Android) e Swift/Objective-C (iOS).
+- **Desktop & Web Player:** TypeScript, React e Electron (para a aplicação desktop).
+- **Badges:**
+  ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+  ![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
+  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+---
+
+### ⚙️ Back-End e Arquitetura de Microserviços
+- **Linguagens do Servidor:** Java e Python (usados no processamento e lógica dos microserviços), C++ (servidores de streaming de áudio de alta performance).
+- **Processamento de Dados & IA:** Python e Scala para os algoritmos de recomendação e Machine Learning (ex: Descobertas da Semana).
+- **Badges:**
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
+
+---
+
+### ☁️ Infraestrutura e Banco de Dados
+- **Nuvem:** Google Cloud Platform (GCP).
+- **Bancos de Dados:** PostgreSQL (dados relacionais), Cassandra (armazenamento de dados em larga escala) e Redis (caching de alta velocidade).
+- **Mensageria & Stream:** Apache Kafka (para streaming de dados em tempo real) e Docker/Kubernetes para orquestração.
+- **Badges:**
+  ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![Cassandra](https://img.shields.io/badge/Cassandra-100000?style=for-the-badge&logo=apachecassandra&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+### 🎨 Design & UI/UX
+- **Ferramentas de Design:** Figma (design de interface e prototipagem do Design System GLUE do Spotify).
+- **Badges:**
+  ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
 ---
 
 ## 💻 Requisitos do Sistema e Compatibilidade
